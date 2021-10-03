@@ -107,9 +107,50 @@ transition: 1s ease;
   text-align: center;
 }
 
-.smalltextbody {
+.pubno {
   color: #627582;
   font-size: 15px;
-  padding: 2rem 5rem;
+  padding: 5em 5rem;
+  line-height: 1.8;
   text-align: justify;
+}
+
+.publist {
+  color: #627582;
+  font-size: 15px;
+  padding: 5em 5rem;
+  line-height: 1.8;
+  text-align: justify;
+}
+
+
+
+
+
+/* ==== TABLE STYLE FOR PUBLICATIONS LIST ==== */
+
+.table, tr, td {
+  border:1px solid #ffffff;
+  border-collapse: collapse;
+  text-align: justify;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+th:nth-child(even),td:nth-child(odd) {
+    font-size: 25pt ;
+    font-weight: bolder;
+    color: #ff8888;
+    padding-left: 5rem;
+    width:10%;
+}
+
+th:nth-child(even),td:nth-child(even) {
+    font-size: 16;
+    color: #627582;
+    padding-left: 1rem;
+    padding-right: 5rem;
+    width:90%;
+    line-height: 1.8;
+    text-align: justify;
 }
