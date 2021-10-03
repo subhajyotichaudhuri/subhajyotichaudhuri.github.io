@@ -13,6 +13,8 @@
   padding: 15px 18px;
   text-decoration: none;
   font-size: 16px;
+  position: sticky;
+    top: 0;
 }
 
 /* Change the color of links on hover */
@@ -38,6 +40,8 @@
 /* The sticky class is added to the navbar with JS when it reaches its scroll position */
 .sticky {
   position: fixed;
+  position: -webkit-sticky;
+  position: sticky;
   top: 0;
   width: 100%;
 }
@@ -46,6 +50,42 @@
 .sticky + .content {
   padding-top: 60px;
 }
+
+
+
+/* ==== HOVER SATURATION EFFECT ==== */
+.color img{
+filter: grayscale(100%);
+opacity: 0.4;
+-webkit-filter: grayscale(100%);
+-webkit-transition: all 1s ease;
+}
+
+.color img:hover{
+opacity: 0.8;
+filter: grayscale(0%);
+filter: gray;
+-webkit-filter: grayscale(0%);
+filter: none;
+transition: 1s ease;
+}
+
+
+/* ==== HOVER GROW EFFECT ==== */
+.grow img{
+transition: 1s ease;
+}
+
+.grow img:hover{
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
+}
+
+
+
+
 
 
 .center {
