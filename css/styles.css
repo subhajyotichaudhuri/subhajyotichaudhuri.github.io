@@ -1,0 +1,75 @@
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+/* Navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: #627582;
+  text-align: center;
+  padding: 15px 18px;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+/* Change the color of links on hover */
+#navbar a:hover {
+  background-color: #ffffff;
+  color: #627582;
+  font-size: 20px;
+}
+
+/* Add a color to the active/current link */
+#navbar a.active {
+  background-color: #ffffff;
+  color: #ff8888;
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 60px;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.bigtextcenter {
+  color: #627582;
+  font-size: 30px;
+  text-align: center;
+}
+
+.smalltextcenter {
+  color: #627582;
+  font-size: 15px;
+  text-align: center;
+}
+
+.smalltextbody {
+  color: #627582;
+  font-size: 15px;
+  padding: 2rem 5rem;
+  text-align: justify;
+}
