@@ -86,9 +86,9 @@ th:nth-child(even),td:nth-child(even) {
 
 /* ==== HOVER SATURATION EFFECT ==== */
 .color img{
-filter: grayscale(100%);
+filter: grayscale(50%);
 opacity: 0.4;
--webkit-filter: grayscale(100%);
+-webkit-filter: grayscale(50%);
 -webkit-transition: all 1s ease;
 }
 
@@ -161,6 +161,8 @@ transition: 1s ease;
   content: 'Physical Chemist';
   animation-name: change-letter;
   animation-duration: 15s;
+  -webkit-animation-duration: 15s;
+  -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
 }
 
