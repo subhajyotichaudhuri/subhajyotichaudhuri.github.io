@@ -181,15 +181,15 @@ transition: 1s ease;
   }
   15% {
     opacity: 0.5;
-    content: "Chemical Physicist"
+    -webkit-content: "Chemical Physicist"
   }
   20% {
     opacity: 1;
-    content: "Chemical Physicist"
+    -webkit-content: "Chemical Physicist"
   }
   25% {
     opacity: 0.5;
-    content: "Chemical Physicist"
+    -webkit-content: "Chemical Physicist"
   }
   30% {
     opacity: 0;
