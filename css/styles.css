@@ -1,3 +1,34 @@
+/* =========================================== */
+/* ==== TABLE STYLE FOR PUBLICATIONS LIST ==== */
+/* =========================================== */
+.table, tr, td {
+  border:1px solid #ffffff;
+  border-collapse: collapse;
+  text-align: justify;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+th:nth-child(even),td:nth-child(odd) {
+    font-size: 25pt ;
+    font-weight: bolder;
+    color: #ff8888;
+    padding-left: 5rem;
+    width:10%;
+}
+
+th:nth-child(even),td:nth-child(even) {
+    font-size: 16;
+    color: #627582;
+    padding-left: 1rem;
+    padding-right: 5rem;
+    width:90%;
+    line-height: 1.8;
+    text-align: justify;
+}
+/* =========================================== */
+
+
 /* Style the navbar */
 #navbar {
   overflow: hidden;
@@ -126,31 +157,92 @@ transition: 1s ease;
 
 
 
-
-/* ==== TABLE STYLE FOR PUBLICATIONS LIST ==== */
-
-.table, tr, td {
-  border:1px solid #ffffff;
-  border-collapse: collapse;
-  text-align: justify;
-  padding-bottom: 1rem;
-  padding-top: 1rem;
+.change:before {
+  content: 'Physical Chemist';
+  animation-name: change-letter;
+  animation-duration: 15s;
+  animation-iteration-count: infinite;
 }
 
-th:nth-child(even),td:nth-child(odd) {
-    font-size: 25pt ;
-    font-weight: bolder;
-    color: #ff8888;
-    padding-left: 5rem;
-    width:10%;
-}
-
-th:nth-child(even),td:nth-child(even) {
-    font-size: 16;
-    color: #627582;
-    padding-left: 1rem;
-    padding-right: 5rem;
-    width:90%;
-    line-height: 1.8;
-    text-align: justify;
+@keyframes change-letter {
+  0% {
+    opacity: 1;
+    content: "Physical Chemist"
+  }
+  5% {
+    opacity: 0.5;
+    content: "Physical Chemist"
+  }
+  10% {
+    opacity: 0;
+    content: "Physical Chemist"
+  }
+  15% {
+    opacity: 0.5;
+    content: "Chemical Physicist"
+  }
+  20% {
+    opacity: 1;
+    content: "Chemical Physicist"
+  }
+  25% {
+    opacity: 0.5;
+    content: "Chemical Physicist"
+  }
+  30% {
+    opacity: 0;
+    content: "Chemical Physicist"
+  }
+  35% {
+    opacity: 0.5;
+    content: "Materials Scientist"
+  }
+  40% {
+    opacity: 1;
+    content: "Materials Scientist"
+  }
+  45% {
+    opacity: 0.5;
+    content: "Materials Scientist"
+  }
+  50% {
+    opacity: 0;
+    content: "Materials Scientist"
+  }
+  55% {
+    opacity: 0.5;
+    content: "Chemical Engineer"
+  }
+  60% {
+    opacity: 1;
+    content: "Chemical Engineer"
+  }
+  65% {
+    opacity: 0.5;
+    content: "Chemical Engineer"
+  }
+  70% {
+    opacity: 0;
+    content: "Chemical Engineer"
+  }
+  75% {
+    opacity: 0.5;
+    content: "Sustainability Advocate"
+    }
+  80% {
+    opacity: 1;
+    content: "Sustainability Advocate"
+    }
+  85% {
+    opacity: 0.5;
+    content: "Sustainability Advocate"
+    }
+  90% {
+    opacity: 0;
+    content: "Sustainability Advocate"
+  }
+  95% {
+    opacity: 0.5;
+    content: "Physical Chemist"
+  }
 }
