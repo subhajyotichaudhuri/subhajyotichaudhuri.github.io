@@ -149,102 +149,16 @@ transition: 1s ease;
 .publist {
   color: #627582;
   font-size: 15px;
-  padding: 5em 5rem;
+  padding: 5rem;
   line-height: 1.8;
   text-align: justify;
 }
 
 
-
-
-.change:before {
-  content: 'Physical Chemist';
-  animation-name: change-letter;
-  animation-duration: 15s;
-  -webkit-animation-duration: 15s;
-  animation-iteration-count: -webkit-infinite;
-  animation-iteration-count: infinite;
-}
-
-@keyframes change-letter {
-  0% {
-    opacity: 1;
-    content: "Physical Chemist"
-  }
-  5% {
-    opacity: 0.5;
-    content: "Physical Chemist"
-  }
-  10% {
-    opacity: 0;
-    content: "Physical Chemist"
-  }
-  15% {
-    opacity: 0.5;
-    -webkit-content: "Chemical Physicist"
-  }
-  20% {
-    opacity: 1;
-    -webkit-content: "Chemical Physicist"
-  }
-  25% {
-    opacity: 0.5;
-    -webkit-content: "Chemical Physicist"
-  }
-  30% {
-    opacity: 0;
-    content: "Chemical Physicist"
-  }
-  35% {
-    opacity: 0.5;
-    content: "Materials Scientist"
-  }
-  40% {
-    opacity: 1;
-    content: "Materials Scientist"
-  }
-  45% {
-    opacity: 0.5;
-    content: "Materials Scientist"
-  }
-  50% {
-    opacity: 0;
-    content: "Materials Scientist"
-  }
-  55% {
-    opacity: 0.5;
-    content: "Chemical Engineer"
-  }
-  60% {
-    opacity: 1;
-    content: "Chemical Engineer"
-  }
-  65% {
-    opacity: 0.5;
-    content: "Chemical Engineer"
-  }
-  70% {
-    opacity: 0;
-    content: "Chemical Engineer"
-  }
-  75% {
-    opacity: 0.5;
-    content: "Sustainability Advocate"
+div.container {
+      display:inline-block;
     }
-  80% {
-    opacity: 1;
-    content: "Sustainability Advocate"
+
+    p {
+      text-align:center;
     }
-  85% {
-    opacity: 0.5;
-    content: "Sustainability Advocate"
-    }
-  90% {
-    opacity: 0;
-    content: "Sustainability Advocate"
-  }
-  95% {
-    opacity: 0.5;
-    content: "Physical Chemist"
-  }
-}
