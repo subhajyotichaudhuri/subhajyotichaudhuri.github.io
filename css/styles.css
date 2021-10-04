@@ -162,7 +162,7 @@ transition: 1s ease;
   animation-name: change-letter;
   animation-duration: 15s;
   -webkit-animation-duration: 15s;
-  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: -webkit-infinite;
   animation-iteration-count: infinite;
 }
 
