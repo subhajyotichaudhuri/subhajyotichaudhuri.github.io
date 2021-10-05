@@ -121,7 +121,7 @@ transition: 1s ease;
 /* ==== HOVER SATURATION EFFECT ==== */
 .saturate img{
 filter: grayscale(100%);
-opacity: 1;
+opacity: 0.9;
 -webkit-filter: grayscale(100%);
 -webkit-transition: all 1s ease;
 }
