@@ -1,7 +1,8 @@
 /* =========================================== */
 /* ==== TABLE STYLE FOR PUBLICATIONS LIST ==== */
 /* =========================================== */
-.table, tr, td {
+table.table1
+table.table1 tr, td {
   border:1px solid #ffffff;
   border-collapse: collapse;
   text-align: justify;
@@ -9,19 +10,20 @@
   padding-top: 1rem;
 }
 
-th:nth-child(even),td:nth-child(odd) {
+table.table1 th:nth-child(even),table.table1 td:nth-child(1) {
     font-size: 25pt ;
     font-weight: bolder;
     color: #ff8888;
-    padding-left: 5rem;
+    padding-left: 0rem;
+    padding-right: 2rem;
     width:10%;
 }
 
-th:nth-child(even),td:nth-child(even) {
+table.table1 th:nth-child(even),table.table1 td:nth-child(2) {
     font-size: 16;
     color: #627582;
-    padding-left: 1rem;
-    padding-right: 5rem;
+    padding-left: 0rem;
+    padding-right: 2rem;
     width:90%;
     line-height: 1.8;
     text-align: justify;
@@ -30,7 +32,42 @@ th:nth-child(even),td:nth-child(even) {
 
 
 
+/* ================================= */
+/* ==== TABLE STYLE FOR CV PAGE ==== */
+/* ================================= */
+table.table2
+table.table2 tr, td {
+  border:1px solid #ffffff;
+  border-collapse: collapse;
+  text-align: justify;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
 
+table.table2 th:nth-child(even),table.table2 td:nth-child(1) {
+    font-size: 7pt ;
+    font-weight: bolder;
+    color: #ff8888;
+    padding-left: 0rem;
+}
+
+table.table2 th:nth-child(even),table.table2 td:nth-child(2) {
+    font-size: 16 rem;
+    color: #627582;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    line-height: 1.8;
+    text-align: justify;
+}
+
+table.table2 th:nth-child(even),table.table2 td:nth-child(3) {
+    font-size: 16;
+    color: #627582;
+    padding-left: 0rem;
+    padding-right: 1rem;
+    align-content: left;
+}
+/* =========================================== */
 
 
 /* Style the navbar */
@@ -179,6 +216,23 @@ color: #ff8888;
   line-height: 1.8;
   text-align: justify;
 }
+
+
+.mainimg {
+    width: 100;
+    height: 15rem;
+    background-image: url(../assets/img/images/subha.png);
+    background-repeat: no-repeat;
+    background-size: 15rem;
+    background-position: center center;;
+}
+.mainimg:hover {
+    background-image: url(../assets/img/images/subha2.png);
+    background-repeat: no-repeat;
+    background-size: 15rem;
+    background-position: center center;;
+
+
 
 
 div.container {
