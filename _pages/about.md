@@ -32,14 +32,19 @@ I am passionate about `designing materials for a sustainable future`, and have b
 – artificial photosynthetic systems for water oxidation\
 – sustainable separation of metals\
 – regenerative electronics\
-See `projects` and `publications` sections for more information.
-
-\
-\
+See [research](https://subhajyotichaudhuri.github.io/projects/) and [publications](https://subhajyotichaudhuri.github.io/publications/) sections for more information.
+<br>
+<br>
+`Northwestern University Theoretical Chemistry Seminar Series (TCSS)` <br>
+I run TCSS with [Todd Gingrich](https://chemistry.northwestern.edu/people/core-faculty/profiles/todd-gingrich.html) and [Roel Tempelaar](https://chemistry.northwestern.edu/people/core-faculty/profiles/roel-tempelaar.html). If you are in the greater Chicago area and have exciting theoretical chemistry research to share with us, let me know, and we will be happy to host you for a seminar.
+<br>
+<br>
+`Outreach`<br>
+I am actively involved in various teaching, mentorship, and outreach activities in the greater Chicago area as well as virtually. Organizers, if you have an activity that can benefit from our involvement - be it a science fair, or teaching K12 students about various scientific topics, please feel free to reach out.<br>
+If you are interested in supporting higher education of low-income-group students in India through [Padakshep](https://usa.padakshep.org), don't hesitate to email me.<br>
+If you are part of [Lindau Mentoring Hub](https://lindau.mentoringhub.org) or [Yale Cross Campus](https://crosscampus.yale.edu/v2/), feel free to reach out through the portals.
+<br>
+<br>
 <b>Contact me:</b>\
-:envelope: `subhajyoti.chaudhuri@northwestern.edu`\
-:house: Patrick G. and Shirley W. Ryan Hall, Rm. 4003, 2190 Campus Dr, Evanston, IL 60208\
-\
-\
-\
-I run the `Northwestern University Theoretical Chemistry Seminar Series` with [Todd Gingrich](https://chemistry.northwestern.edu/people/core-faculty/profiles/todd-gingrich.html) and [Roel Tempelaar](https://chemistry.northwestern.edu/people/core-faculty/profiles/roel-tempelaar.html). If you are in the greater Chicago area and have exciting theoretical chemistry research to share with us, let me know, and we will be happy to host you for a seminar.
+:envelope: `subhajyoti.chaudhuri@northwestern.edu`<br>
+:house: Patrick G. and Shirley W. Ryan Hall, Rm. 4003, 2190 Campus Dr, Evanston, IL 60208

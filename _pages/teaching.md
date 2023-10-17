@@ -17,7 +17,9 @@ Undergraduate Level
 - Quantum Mechanics
 - Electromagnetic Theory
 - Introduction to Materials Science/ Chemistry
+- Physical Chemistry
 - Light Matter Interactions
+- Soft Matter
 
 Graduate Level
 - Mathematical Methods
