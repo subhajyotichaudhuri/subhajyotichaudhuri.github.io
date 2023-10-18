@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Charge Transfer
-description: understanding charge transfer and predicting rates
+description: Understanding charge transfer and predicting rates
 img: assets/img/et1.jpg
 importance: 1
 category: work
