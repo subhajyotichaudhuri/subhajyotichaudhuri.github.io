@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-`Faculty Candidates in CoMSEF` AIChE Annual Meeting 2023 (Miami)
+`Faculty Candidates in CoMSEF` AIChE Annual Meeting 2023 (Florida)

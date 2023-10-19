@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-`Meet the Faculty Candidates Poster Session` AIChE Annual Meeting 2023 (Miami)
+`Meet the Faculty Candidates Poster Session` AIChE Annual Meeting 2023 (Florida)
