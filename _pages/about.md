@@ -20,16 +20,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Talk</title>
-</head>
-<body>
-    <img src="subha_talk.jpg" alt="Description of the image">
-</body>
-</html>
+
+<img src="assets/img/subha_talk.jpg" alt="Subha giving a talk">
 
 `About Me` <br>
 I am a theorist working on problems at the intersection of physics, chemistry, and engineering. I develop and apply quantum mechanical, classical, stochastic, and machine learning methods to study behavior of materials at different length and timescales, with particular interest in phenomena stemming from charge, spin, and energy transfer in systems of varying complexities.
