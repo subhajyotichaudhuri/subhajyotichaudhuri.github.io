@@ -5,8 +5,8 @@ permalink: /
 #subtitle: <a href='https://chemistry.northwestern.edu'>Department of Chemistry</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: top
+  image: subha_talk.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 #    <p>Patrick G. and Shirley W. Ryan Hall</p>
@@ -27,7 +27,7 @@ At present, I am a postdoctoral scholar in the [Department of Chemistry]((https:
 <br>
 <br>
 `Research Interest` <br>
-I am passionate about `designing materials for a sustainable future`, and have been working with some of the global leaders in the areas of\
+I am passionate about designing materials for a sustainable future, and have been working with some of the global leaders in the areas of\
 – Solar fuels catalysis\
 – Artificial photosynthesis\
 – Separation of metals\
@@ -49,4 +49,4 @@ If you are part of [Lindau Mentoring Hub](https://lindau.mentoringhub.org) or [Y
 <br>
 <b>Contact me:</b>\
 :envelope: `subhajyoti.chaudhuri@northwestern.edu`<br>
-:house: Patrick G. and Shirley W. Ryan Hall, Rm. 4003, 2190 Campus Dr, Evanston, IL 60208
+:house: Patrick G. and Shirley W. Ryan Hall, Rm. 4033, 2190 Campus Dr, Evanston, IL 60208
