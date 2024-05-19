@@ -40,7 +40,7 @@ Some of the computational framework I develop benefits from using high performan
 
 For more information on the problems I am working on, check the [research](https://subhajyotichaudhuri.github.io/projects/) page. To check out my published work, take a look at my [publications](https://subhajyotichaudhuri.github.io/publications/).
 
-![Subha Talk](/assets/img/subha_talk.jpg){:class="wideimage"}
+![Subha Talk](/assets/img/subha_schatz.jpg){:class="wideimage"}
 
 
 `Northwestern University Theoretical Chemistry Seminar Series (TCSS)`
