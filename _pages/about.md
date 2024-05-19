@@ -34,9 +34,9 @@ I develop scalable mixed quantum-classical methods to study charge, spin, and en
 
 I am passionate about building a sustainable future, and work closely with some of the global leaders in the areas of photovoltaics, solar fuels catalysis, artificial photosynthesis, regenerative bioelectronics etc.
 
-Most of our modern technological advances are built on transition metals which suffer from sourcing issues due to unsustainable mining practices and geopolitical challenges. A big part of my research in more recent years has focused on understanding the electronic structure of transition metal complexes to design sustainable separation methods for hard to separate metals like Ta and Nb.
+Most of our modern technological advances are built on transition metals which suffer from sourcing issues due to unsustainable mining practices and geopolitical challenges. A big part of my research in recent years has focused on understanding the electronic structure and properties of transition metal complexes to design sustainable separation methods for hard to separate metals like Ta and Nb.
 
-Most of the computational framework I develop benefits from using high performance computing facilities. Quantum computers now present a game-changing alternative in the simulation of quantum systems. A part of my research focuses on developing methods compatible with quantum computers, as well as designing molecules and materials for quantum sensing and transduction with the goal of designing fault-tolerant qubits.
+Some of the computational framework I develop benefits from using high performance computing facilities. Quantum computers now present a game-changing alternative in the simulation of quantum systems. A part of my research now focuses on developing methods compatible with quantum computers, as well as designing molecules and materials for quantum sensing and transduction with the goal of designing fault-tolerant qubits.
 
 For more information on the problems I am working on, check the [research](https://subhajyotichaudhuri.github.io/projects/) page. To check out my published work, take a look at my [publications](https://subhajyotichaudhuri.github.io/publications/).
 
@@ -45,14 +45,15 @@ For more information on the problems I am working on, check the [research](https
 
 `Northwestern University Theoretical Chemistry Seminar Series (TCSS)`
 
-I run the Theoretical Chemistry Seminar Series at Northwestern together with [Todd Gingrich](https://chemistry.northwestern.edu/people/core-faculty/profiles/todd-gingrich.html) and [Roel Tempelaar](https://chemistry.northwestern.edu/people/core-faculty/profiles/roel-tempelaar.html). If you are in the greater Chicago area and have exciting theoretical chemistry research to share with us, reach out to me at `subhajyoti.chaudhuri@northwestern.edu`.
+I run the Theoretical Chemistry Seminar Series at Northwestern University together with [Todd Gingrich](https://chemistry.northwestern.edu/people/core-faculty/profiles/todd-gingrich.html) and [Roel Tempelaar](https://chemistry.northwestern.edu/people/core-faculty/profiles/roel-tempelaar.html). If you are in the greater Chicago area and have exciting theoretical chemistry research to share with us, reach out to me at [subhajyoti.chaudhuri@northwestern.edu](subhajyoti.chaudhuri@northwestern.edu).
 
-`Teaching, Mentorship, and Outreach`<br>
+`Teaching, Mentorship, and Outreach`
 
 I am actively involved in various teaching, mentorship, and outreach activities in the greater Chicago area as well as virtually. Organizers, if you have an activity that can benefit from my involvement - be it a science fair, or teaching K12 students about various scientific topics, please feel free to reach out.<br>
 If you are interested in supporting higher education of low-income-group students in India through [Padakshep](https://usa.padakshep.org), don't hesitate to email me.<br>
 If you are part of [Lindau Mentoring Hub](https://lindau.mentoringhub.org) or [Yale Cross Campus](https://crosscampus.yale.edu/v2/), feel free to reach out through the portals.
 
-<b>Contact me:</b>\
+`Contact me`
+
 :envelope: `subhajyoti.chaudhuri@northwestern.edu`<br>
 :house: Patrick G. and Shirley W. Ryan Hall, Rm. 4033, 2190 Campus Dr, Evanston, IL 60208
