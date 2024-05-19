@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Computational Chemistry GRC (Maine)
+`Poster` Computational Chemistry GRC (Maine)
