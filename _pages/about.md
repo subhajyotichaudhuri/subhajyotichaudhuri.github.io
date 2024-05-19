@@ -32,8 +32,8 @@ I am passionate about `designing materials for a sustainable future`, and have b
 – Artificial photosynthesis\
 – Separation of metals\
 – Bioelectronics\
-- Plasma-driven electrochemistry\
-- Quantum information\
+– Plasma-driven electrochemistry\
+– Quantum information\
 For a more detailed description of my research interests, check the [research](https://subhajyotichaudhuri.github.io/projects/) section. To take a look at some of the interesting studies I have already worked on, take a look at my [publications](https://subhajyotichaudhuri.github.io/publications/).
 <br>
 <br>
