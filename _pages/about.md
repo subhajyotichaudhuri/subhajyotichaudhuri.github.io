@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: top
-  image: prof_pic.jpg
+  image:
   image_circular: false # crops the image to make it circular
   more_info: >
 #    <p>Patrick G. and Shirley W. Ryan Hall</p>
@@ -20,25 +20,26 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+![Subha Yale](/assets/img/subha_yale.jpg){:class="wideimage"}
 
 `About Me`
 
-I am a theorist working on problems at the intersection of physics, chemistry, and engineering. I develop and apply quantum mechanical, classical, stochastic, and machine learning methods to study behavior of materials at different length and timescales, with particular interest in phenomena stemming from charge, spin, and energy transfer in systems of varying complexities.
+I am a theorist working on problems at the intersection of physics, chemistry, and engineering. I develop and apply quantum mechanical, classical, stochastic, and machine learning methods to study behavior of materials at different length and timescales. I am particularly interested in phenomena stemming from charge, spin, and energy transfer in systems of varying complexities.
 
 At present, I am a postdoctoral scholar in the Department of Chemistry at [Northwestern University](https://www.northwestern.edu) working with [George C. Schatz](https://chemistry.northwestern.edu/people/core-faculty/profiles/george-schatz.html). Before this, I got my PhD with [Victor S. Batista](https://chem.yale.edu/faculty/victor-batista) in the Department of Chemistry and the School of Engineering and Applied Science at [Yale University](https://www.yale.edu).
 
 <br>
 `Research Interest`
 
-`Method Development:` I develop scalable mixed quantum-classical methods to study charge, spin, and energy transfer in non-equilibrium, driven, chiral, and complex systems; with the goal of understanding the multi-scale physics behind the properties of materials. I utilize advancements in the fields of mathematics (like algebraic topology) and computer science (like computational geometry and manifold learning) to find analytical or numerical solutions for problems in chemical physics. At present, I am also utilizing machine-learning algorithms to study data-driven discovery of physical laws.
+`Method Development` I develop scalable mixed quantum-classical methods to study charge, spin, and energy transfer in non-equilibrium, driven, chiral, and complex systems; with the goal of understanding the multi-scale physics behind the properties of materials. I utilize advancements in the fields of mathematics (like algebraic topology) and computer science (like computational geometry and manifold learning) to find analytical or numerical solutions for problems in chemical physics. At present, I am also utilizing machine-learning algorithms to study data-driven discovery of physical laws.
 
-`Applications:` I am passionate about building a sustainable future, and work closely with some of the global leaders in the areas of photovoltaics, solar fuels catalysis, artificial photosynthesis, regenerative bioelectronics etc. Most of our modern technological advances are built on transition metals which suffer from sourcing issues due to unsustainable mining practices and geopolitical challenges. A big part of my research in recent years has focused on understanding the electronic structure and properties of transition metal complexes to design sustainable separation methods for hard to separate metals like Ta and Nb, with the goal of better recycling of electronic waste.
+`Sustainability` I am passionate about building a sustainable future, and work closely with some of the global leaders in the areas of photovoltaics, solar fuels catalysis, artificial photosynthesis, regenerative bioelectronics etc. Most of our modern technological advances are built on transition metals which suffer from sourcing issues due to unsustainable mining practices and geopolitical challenges. A big part of my research in recent years has focused on understanding the electronic structure and properties of transition metal complexes to design sustainable separation methods for hard to separate metals like Ta and Nb, with the goal of better recycling of electronic waste.
 
-`Quantum Sciences:` Some of the computational framework I develop benefits from using high performance computing facilities. Quantum computers now present a game-changing alternative in the simulation of quantum systems. A part of my research now focuses on developing methods compatible with quantum computers. I am interested in inverse-design of molecules and materials for quantum sensing and transduction, and molecular qubits.
+`Quantum Sciences` Some of the computational framework I develop benefits from using high performance computing facilities. Quantum computers now present a game-changing alternative in the simulation of quantum systems. A part of my research now focuses on developing methods compatible with quantum computers. I am interested in inverse-design of molecules and materials for quantum sensing and transduction, and molecular qubits.
 
 For more information on the problems I am working on, check the [research](https://subhajyotichaudhuri.github.io/projects/) page. To check out my published work, take a look at my [publications](https://subhajyotichaudhuri.github.io/publications/).
 
-![Subha Talk](/assets/img/subha_schatz.jpg){:class="wideimage"}
+![Subha Schatz](/assets/img/subha_schatz.jpg){:class="wideimage"}
 
 <br>
 `Northwestern University Theoretical Chemistry Seminar Series (TCSS)`
@@ -61,10 +62,10 @@ If you are at Northwestern, and want to work with me, I have an open door policy
 
 I am actively involved in outreach activities in the greater Chicago area as well as virtually. If you are organizing activities like science fair, shadow a scientist, popular science talks on quantum physics for your school, etc and believe it can benefit from my involvement/ participation, please reach out by email.
 
-If you are interested in supporting higher education of underprivileged students in West Bengal (India) do check out [Padakshep](https://usa.padakshep.org), and consider [donating](https://www.paypal.com/us/fundraiser/charity/39760). If you want to be involved more actively, please reach out.
-
 <br>
 `Contact me`
 
 :envelope: `subhajyoti.chaudhuri@northwestern.edu`<br>
 :house: Patrick G. and Shirley W. Ryan Hall, Rm. 4033, 2190 Campus Dr, Evanston, IL 60208
+
+![Subha Talk](/assets/img/subha_talk.jpg){:class="wideimage"}
