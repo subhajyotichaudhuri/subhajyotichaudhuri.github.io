@@ -6,9 +6,8 @@ title: publications
 nav: true
 nav_order: 1
 ---
-Peer-reviewed publications in reverse chronological order.<br>
+Published/ in-press peer-reviewed articles
 <p>* Equal contribution</p>
-PDF versions of the papers available on request
 
 <!-- _pages/publications.md -->
 <div class="publications">

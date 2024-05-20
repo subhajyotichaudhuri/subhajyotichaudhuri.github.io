@@ -27,6 +27,7 @@ I am a theorist working on problems at the intersection of physics, chemistry, a
 
 At present, I am a postdoctoral scholar in the Department of Chemistry at [Northwestern University](https://www.northwestern.edu) working with [George C. Schatz](https://chemistry.northwestern.edu/people/core-faculty/profiles/george-schatz.html). Before this, I got my PhD with [Victor S. Batista](https://chem.yale.edu/faculty/victor-batista) in the Department of Chemistry and the School of Engineering and Applied Science at [Yale University](https://www.yale.edu).
 
+<br>
 `Research Interest`
 
 `Method Development:` I develop scalable mixed quantum-classical methods to study charge, spin, and energy transfer in non-equilibrium, driven, chiral, and complex systems; with the goal of understanding the multi-scale physics behind the properties of materials. I utilize advancements in the fields of mathematics (like algebraic topology) and computer science (like computational geometry and manifold learning) to find analytical or numerical solutions for problems in chemical physics. At present, I am also utilizing machine-learning algorithms to study data-driven discovery of physical laws.
@@ -39,10 +40,12 @@ For more information on the problems I am working on, check the [research](https
 
 ![Subha Talk](/assets/img/subha_schatz.jpg){:class="wideimage"}
 
+<br>
 `Northwestern University Theoretical Chemistry Seminar Series (TCSS)`
 
 I run the Theoretical Chemistry Seminar Series at Northwestern University together with [Todd Gingrich](https://chemistry.northwestern.edu/people/core-faculty/profiles/todd-gingrich.html) and [Roel Tempelaar](https://chemistry.northwestern.edu/people/core-faculty/profiles/roel-tempelaar.html). If you are in the greater Chicago area and have exciting theoretical chemistry research to share with us, reach out to me at [subhajyoti.chaudhuri@northwestern.edu](subhajyoti.chaudhuri@northwestern.edu).
 
+<br>
 `Mentorship`
 
 Over the years, I have have taught and mentored several talented high-school, undergraduate, and graduate students. Several of my mentees have gone on to win prestigious awards and fellowships like the NSF-GRF, Fulbright etc. While I ideally prefer my mentees to have a good background in the basic concepts of mathematics and physics, I understand that due to systemic inequalities, students have different level of preparedness. I am always happy to teach and mentor students. I do expect my mentees to be driven, creative, and considerate.
@@ -53,13 +56,14 @@ If you are at Northwestern, and want to work with me, I have an open door policy
 
 `Note` Due to a busy conference travel schedule this summer, I am not accepting summer students/ interns this year.
 
+<br>
 `Outreach`
 
 I am actively involved in outreach activities in the greater Chicago area as well as virtually. If you are organizing activities like science fair, shadow a scientist, popular science talks on quantum physics for your school, etc and believe it can benefit from my involvement/ participation, please reach out by email.
 
-If you are interested in supporting higher education of underprivileged students in West Bengal, India do check out [Padakshep](https://usa.padakshep.org), and consider [donating](https://www.paypal.com/us/fundraiser/charity/39760). If you want to be involved more actively, do reach out.
+If you are interested in supporting higher education of underprivileged students in West Bengal (India) do check out [Padakshep](https://usa.padakshep.org), and consider [donating](https://www.paypal.com/us/fundraiser/charity/39760). If you want to be involved more actively, please reach out.
 
-
+<br>
 `Contact me`
 
 :envelope: `subhajyoti.chaudhuri@northwestern.edu`<br>
