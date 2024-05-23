@@ -5,16 +5,15 @@ permalink: /projects/
 #description:
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [development, application]
 horizontal: false
 ---
 
-I develop and use methods primarily based on `electronic structure theory`, `molecular dynamics`, and `stochastic methods` to try and solve interesting/ challenging problems in physics, chemistry, and biology.<br>
+I develop scalable mixed quantum-classical methods to study charge, spin, and energy transfer in non-equilibrium, driven, chiral, and complex systems; with the goal of understanding the multi-scale physics behind the properties of materials. I also heavily utilize `electronic structure theory`, `molecular dynamics`, `stochastic methods`, and `machine learning` in my research.
 
-Problems that I am interested in are very `multiscale`, both in length and time; and cover a wide range of topics. Some areas of my active research are mentioned below.
+Problems that I am interested in are multi-scale, both in length and time; and cover a wide range of topics. Some areas of active research are mentioned below.
 
-`Potential collaborators`: I have worked/ continue to work in close collaboration with exceptional experimentalists across the globe who make my research both more impactful and fun. If you want to collaborate on any interesting scientific problem, please feel free to reach out at `subhajyoti.chaudhuri@northwestern.edu`
-
+I work closely several theoretical and experimental groups. If you are interested in collaborating, please reach out at `subhajyoti.chaudhuri@northwestern.edu`
 
 <!-- pages/projects.md -->
 <div class="projects">
