@@ -1,7 +1,7 @@
 ---
 layout: page
 title: electronic structure
-description: systems interacting with the environment
+description: electronic structure driven methods
 img: assets/img/electronicstructure.jpg
 importance: 4
 category: development
