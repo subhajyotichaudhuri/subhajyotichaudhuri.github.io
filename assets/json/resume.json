@@ -8,11 +8,11 @@
     "summary": "I develop and apply theoretical/ computational methods to study interesting phenomena in physical, chemical, and biological systems",
 
   "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "Northwestern University",
+      "postalCode": "",
+      "city": "Evanston",
       "countryCode": "US",
-      "region": "California"
+      "region": "Illinois"
     },
 
     "profiles": [
@@ -54,6 +54,13 @@
     }
   ],
   "awards": [
+    {
+      "title": "IIN Future Faculty Program Fellow",
+      "date": "2024",
+      "awarder": "International Institute for Nanotechnology",
+      "summary": "Selected as part of the 2024-25 cohort of IIN Future Faculty Fellows",
+      "url": "https://www.iinano.org"
+    },
     {
       "title": "Anders Gustaf Ekeberg Tantalum Prize",
       "date": "2022",
