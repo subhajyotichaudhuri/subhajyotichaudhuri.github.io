@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-`Talk` 54$$^{th}$$ Midwest Theoretical Chemistry Conference (Wisconsin)
+`Talk` 54$$^{th}$$ Midwest Theoretical Chemistry Conference, Wisconsin

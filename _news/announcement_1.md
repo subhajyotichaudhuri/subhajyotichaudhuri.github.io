@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Quantum - Multiscale School (Idaho)
+Quantum - Multiscale School, Idaho

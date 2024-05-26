@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-`Talk` `Poster` AIChE Annual Meeting 2023 (San Diego)
+`Talk` `Poster` AIChE Annual Meeting 2024, California
