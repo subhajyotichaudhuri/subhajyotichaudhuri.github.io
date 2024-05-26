@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-`Poster` Electron Donor-Acceptor Interactions GRC, Providence, RI
+`Poster` Electron Donor-Acceptor Interactions GRC, Rhode Island
