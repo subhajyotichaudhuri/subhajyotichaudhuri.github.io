@@ -20,11 +20,11 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-![Subha Yale](/assets/img/subha_yale.jpg){:class="wideimage"}
+![Subha Yale](/assets/img/subha_mwtcc.jpg){:class="wideimage"}
 
 `About Me`
 
-I am a theorist working on problems at the intersection of physics, chemistry, and engineering. I develop and apply quantum mechanical, classical, stochastic, and machine learning methods to study behavior of materials at different length and timescales. I am particularly interested in phenomena stemming from charge, spin, and energy transfer in systems of varying complexities.
+I am a theorist working on problems at the intersection of physics, chemistry, and engineering. I develop and apply quantum mechanical, classical, stochastic, and machine learning methods to study behavior of complex systems. I am particularly interested in phenomena stemming from charge, spin, and energy transfer.
 
 At present, I am a postdoctoral scholar in the Department of Chemistry at [Northwestern University](https://www.northwestern.edu) working with [George C. Schatz](https://chemistry.northwestern.edu/people/core-faculty/profiles/george-schatz.html). Before this, I got my PhD with [Victor S. Batista](https://chem.yale.edu/faculty/victor-batista) in the Department of Chemistry and the School of Engineering and Applied Science at [Yale University](https://www.yale.edu).
 
