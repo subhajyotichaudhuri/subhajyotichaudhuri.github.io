@@ -45,3 +45,12 @@ Over the years, I have have taught and mentored several undergraduates, graduate
 <b>Outreach</b>
 
 I am actively involved in science outreach activities in the greater Chicago area as well as virtually. If you are organizing/ running science any outreach program for your school/ community and believe it can benefit from my participation, do reach out!
+
+<br>
+
+<b>Contact me</b>
+<br>
+:envelope: `subhajyoti.chaudhuri@northwestern.edu`<br>
+:house: Patrick G. and Shirley W. Ryan Hall, Rm. 4033, 2190 Campus Dr, Evanston, IL 60208
+
+<br>

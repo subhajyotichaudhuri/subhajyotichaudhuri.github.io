@@ -40,6 +40,6 @@ To learn more about me, click [here](https://subhajyotichaudhuri.github.io/subha
 
 <b>Northwestern University Theoretical Chemistry Seminar Series</b>
 <br>
-I run the [Theoretical Chemistry Seminar Series](https://twitter.com/nutcss) at Northwestern University together with [Todd Gingrich](https://chemistry.northwestern.edu/people/core-faculty/profiles/todd-gingrich.html) and [Roel Tempelaar](https://chemistry.northwestern.edu/people/core-faculty/profiles/roel-tempelaar.html). If you are on a tenure tour; interested in giving a theoretical/ computational chemistry seminar at Northwestern, let me know!
+I run the [Theoretical Chemistry Seminar Series](https://twitter.com/nutcss) at Northwestern University together with [Todd Gingrich](https://chemistry.northwestern.edu/people/core-faculty/profiles/todd-gingrich.html) and [Roel Tempelaar](https://chemistry.northwestern.edu/people/core-faculty/profiles/roel-tempelaar.html). If you are on a tenure tour; or interested in giving a theoretical/ computational chemistry seminar at Northwestern, let me know!
 
 <br>
