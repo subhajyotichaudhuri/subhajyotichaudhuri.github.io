@@ -35,8 +35,3 @@ $max-content-width: {{ site.max_width }};
     width: 100vw; /* Make the image fill the width of its container */
     height: auto; /* Maintain aspect ratio */
 }
-
-.paddedtxt {
-    max-width: 80vw;
-    text-align: center;
-}
