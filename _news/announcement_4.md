@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-`Talk` `Poster` AIChE Annual Meeting 2024, California
+`Conference` Find me at the AIChE Annual Meeting 2024, CA

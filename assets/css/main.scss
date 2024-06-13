@@ -24,3 +24,19 @@ $max-content-width: {{ site.max_width }};
     display: block;
     margin: 0 auto; /* Centers the image horizontally */
 }
+
+.full-width-container {
+    width: 100vw; /* Set the width to 100% of the viewport width */
+    margin-left: calc(50% - 50vw); /* Center the container horizontally */
+    overflow-x: hidden; /* Hide horizontal overflow */
+}
+
+.fullimage {
+    width: 100vw; /* Make the image fill the width of its container */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.paddedtxt {
+    max-width: 80vw;
+    text-align: center;
+}

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-`Poster` Electron Donor-Acceptor Interactions GRC, Rhode Island
+`Conference` Find me at the Electron Donor-Acceptor Interactions GRC, RI

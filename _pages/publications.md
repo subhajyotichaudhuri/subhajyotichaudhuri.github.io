@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 #description: peer-reviewed publications by categories in reversed chronological order.
 nav: true
-nav_order: 1
+nav_order: 4
 ---
 Published/ in-press peer-reviewed articles
 <p>* Equal contribution</p>

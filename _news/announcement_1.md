@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Quantum - Multiscale School, Idaho
+`Summer School` Find me at the Quantum - Multiscale School, ID

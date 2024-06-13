@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-`Poster` Computational Chemistry GRC, Maine
+`Conference` Find me at the Computational Chemistry GRC, ME
