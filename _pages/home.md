@@ -43,7 +43,6 @@ I run the [Theoretical Chemistry Seminar Series](https://twitter.com/nutcss) at 
 
 <br>
 
-`Note` I will be in the tenure-track academic job market in 2024 - 25.
-Thanks to my background in both natural science and engineering, I am uniquely positioned to develop a dynamic research program in both science (applied physics/ chemistry) and engineering (materials/ chemical/ mechanical/ electrical) departments. If your department has an opening, and you think I might be a good fit, please don't hesitate to reach out!
+`Note` I will be looking for tenure-track faculty positions in the 2024 - 25 academic year. Thanks to my background in both natural science and engineering, I am uniquely positioned to develop a dynamic research program in both science (applied physics/ chemistry) and engineering (materials/ chemical/ mechanical/ electrical) departments. If your department has an opening and you think I might be a good fit, or if you want to discuss a cluster-hiring opportunity, please don't hesitate to reach out!
 
 <br>
