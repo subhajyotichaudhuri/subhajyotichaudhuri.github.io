@@ -13,7 +13,7 @@ I develop scalable mixed quantum-classical methods to study charge, spin, and en
 
 Problems that I am interested in are multi-scale, both in length and time; and cover a wide range of topics. Some areas of active research are mentioned below.
 
-I work closely several theoretical and experimental groups. If you are interested in collaborating, please reach out at `subhajyoti.chaudhuri@northwestern.edu`
+I work closely with several theoretical and experimental groups. If you are interested in collaborating, please reach out at `subhajyoti.chaudhuri@northwestern.edu`
 
 <!-- pages/projects.md -->
 <div class="projects">
