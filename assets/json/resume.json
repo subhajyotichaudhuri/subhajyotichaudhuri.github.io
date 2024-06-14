@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Subhajyoti Chaudhuri",
-    "label": "chemical physicist, theoretical chemist",
+    "label": "Theoretical / Computational Chemist",
     "image": "/assets/img/subha_yale.jpg",
     "email": "subhajyoti.chaudhuri@northwestern.edu",
     "url": "https://subhajyotichaudhuri.github.io",
-    "summary": "I develop and apply theoretical/ computational methods to study interesting phenomena in physical, chemical, and biological systems",
+    "summary": "Theorist working on problems at the intersection of physics, chemistry, and engineering",
 
   "location": {
       "address": "Northwestern University",
@@ -26,10 +26,20 @@
   "work": [
     {
       "name": "Northwestern University",
+      "position": "IIN Postdoctoral Fellow",
+      "url": "https://www.iinano.org",
+      "startDate": "2024",
+      "endDate": "present",
+      "highlights": [
+        "IIN - Center for Nanocombinatorics"
+      ]
+    },
+    {
+      "name": "Northwestern University",
       "position": "Postdoctoral Fellow",
       "url": "https://chemistry.northwestern.edu",
       "startDate": "2020",
-      "endDate": "present",
+      "endDate": "2023",
       "summary": "Prof. George C. Schatz",
       "highlights": [
         "Center for Molecular Quantum Transduction",
@@ -45,7 +55,8 @@
       "url": "https://chem.yale.edu",
       "area": "Prof. Victor S. Batista",
       "studyType": "PhD",
-      "endDate": "2020",
+      "startDate": "",
+      "endDate": "",
       "score": "",
       "courses": [
         "Yale Energy Sciences Institute",
@@ -60,6 +71,13 @@
       "awarder": "International Institute for Nanotechnology",
       "summary": "Selected as part of the 2024-25 cohort of IIN Future Faculty Fellows",
       "url": "https://www.iinano.org"
+    },
+    {
+      "title": "IIN Postdoctoral Fellowsip",
+      "date": "2024",
+      "awarder": "International Institute for Nanotechnology",
+      "summary": "Prize postdoctoral fellowship awarded by the International Institute for Nanotechnology",
+      "url": "https://www.iinano.org/iin-postdoctoral-fellowships/"
     },
     {
       "title": "Anders Gustaf Ekeberg Tantalum Prize",

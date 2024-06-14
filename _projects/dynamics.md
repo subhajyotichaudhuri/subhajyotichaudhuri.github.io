@@ -1,7 +1,7 @@
 ---
 layout: page
-title: dynamical information
-description: predicting dynamical properties without doing dynamics
+title: Carrier Transport
+description: predicting charge, spin, and energy transfer rates
 img: assets/img/dynamics.jpg
 importance: 1
 category: development

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 #subtitle: <a href='https://chemistry.northwestern.edu'>Department of Chemistry</a>. Address. Contacts. Moto. Etc.
 
@@ -25,21 +25,25 @@ social: true  # includes social icons at the bottom of the page
 
 <br>
 
-I am a theorist working on problems at the intersection of physics, chemistry, and engineering. I develop and apply quantum mechanical, classical, stochastic, and machine learning methods to study behavior of complex systems. I am particularly interested in phenomena that involve charge, spin, and energy transfer.
+<p class="text150">
+<b>About Me</b>
+</p>
+I am an [IIN Postdoctoral Fellow](https://www.iinano.org) working with [George C. Schatz](https://chemistry.northwestern.edu/people/core-faculty/profiles/george-schatz.html) in the Department of Chemistry at [Northwestern University](https://www.northwestern.edu). I develop and apply quantum mechanical, classical, stochastic, and machine learning methods to study electronic properties of complex systems. [[...more]](https://subhajyotichaudhuri.github.io/subha/)
 
-To learn more about me, click [here](https://subhajyotichaudhuri.github.io/subha/). To learn more about my research, click [here](https://subhajyotichaudhuri.github.io/projects/).
+<p class="text150">
+<b>Theoretical Chemistry Seminar Series</b>
+</p>
+I run the [Theoretical Chemistry Seminar Series](https://twitter.com/nutcss) at Northwestern University together with [Todd Gingrich](https://chemistry.northwestern.edu/people/core-faculty/profiles/todd-gingrich.html) and [Roel Tempelaar](https://chemistry.northwestern.edu/people/core-faculty/profiles/roel-tempelaar.html). If you are on a tenure tour; or interested in giving a theoretical/ computational chemistry seminar at Northwestern, let me know!
 
-<br>
-
-<b>Contact me</b>
-<br>
+<p class="text150">
+<b>Contact Me</b>
+</p>
 :envelope: `subhajyoti.chaudhuri@northwestern.edu`<br>
 :house: Patrick G. and Shirley W. Ryan Hall, Rm. 4033, 2190 Campus Dr, Evanston, IL 60208
 
 <br>
 
-<b>Northwestern University Theoretical Chemistry Seminar Series</b>
-<br>
-I run the [Theoretical Chemistry Seminar Series](https://twitter.com/nutcss) at Northwestern University together with [Todd Gingrich](https://chemistry.northwestern.edu/people/core-faculty/profiles/todd-gingrich.html) and [Roel Tempelaar](https://chemistry.northwestern.edu/people/core-faculty/profiles/roel-tempelaar.html). If you are on a tenure tour; or interested in giving a theoretical/ computational chemistry seminar at Northwestern, let me know!
+`Note` I will be in the tenure-track academic job market in 2024 - 25.
+Thanks to my background in both natural science and engineering, I am uniquely positioned to develop a dynamic research program in both science (applied physics/ chemistry) and engineering (materials/ chemical/ mechanical/ electrical) departments. If your department has an opening, and you think I might be a good fit, please don't hesitate to reach out!
 
 <br>
