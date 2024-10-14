@@ -1,85 +1,84 @@
 <!DOCTYPE html>
 <html lang="en">
-    
-<!--  =============HEAD==============    -->    
 <head>
-    <title>Subhajyoti</title>
-    <link rel="stylesheet" href="css/styles.css">
-    <script src="js/scripts.js"></script>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Set Sans Serif font -->
 <style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
+body
+{
+font-family: Arial, Helvetica, sans-serif;
 }
 </style>
+<title>Subhajyoti</title>
+
+<!-- CSS location -->
+<link rel="stylesheet" href="css/styles.css">
     
+<!-- Javascript location -->
+<script src="js/scripts.js"></script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 </head>
-<!-- ================ooooo=============== -->     
-        
+
 <body>
+
+<nav id="navbar">
+<h1>Subha</h1>
+<button id="modeToggle">
+<img id="modeIcon" src="/assets/img/icons/light.png" alt="Light Mode" />
+</button>
+</nav>
+
+<div id="slideshow">
+    <div class="slide-wrapper">
+        <div class="slide">
+            <img src="/assets/img/slide/1.jpeg" alt="Slide 1">
+        </div>
+        <div class="slide">
+            <img src="/assets/img/slide/2.jpeg" alt="Slide 2">
+        </div>
+        <div class="slide">
+            <img src="/assets/img/slide/3.jpeg" alt="Slide 3">
+        </div>
+        <div class="slide">
+            <img src="/assets/img/slide/4.jpeg" alt="Slide 4">
+        </div>
+    </div>
+    <div class="buttons">
+       <button class="button" id="prevButton">&#10094;</button>
+        <button class="button" id="nextButton">&#10095;</button>
+    </div>
+</div>
     
-<!-- ================ooooo=============== -->
-<!--   ======== NAVIGATION BAR ========   -->
-<!-- ================ooooo=============== -->
-<div id="navbar" class="sticky">
-  <a class="active" href="index.html">Home</a>
-  <a href="cv.html">CV</a>
-  <a href="research.html">Research</a>
-  <a href="publications.html">Publications</a>
-</div>
-<!-- ================ooooo=============== -->
-    
-<div style="width:10rem; height:5rem;border:0px solid #000;"></div>
-
-<!-- ================ooooo=============== -->
-<!--   ======== HOMEPAGE IMAGE ========   -->
-<!-- ================ooooo=============== -->
-
-<div class="mainimg" style="align-content: center"></div>
-
-<!--
-<div class="">
-<img src="assets/img/images/subha.png" alt="Subhajyoti" class="center" style="width:15rem; height:15rem;">
-<!-- ================ooooo=============== 
-</div>
--->
-<div style="width:10rem; height:2rem;border:0px solid #000;"></div>
-
-<!-- ================ooooo=============== -->
-<!--   ======== TEXT UNDER IMAGE ======   -->
-<!-- ================ooooo=============== -->
-<p class="bigtextcenter"> <span style="color: #ff8888">Subha</span>jyoti Chaudhuri</p>
-
-<div style="text-align: center; color: #627582; font-size: 15px;">
-Physical Chemist + Chemical Physicist
-</div>
-<!-- ================ooooo=============== -->
-
-<div style="width:10rem; height:2rem;border:0px solid #ffffff;"></div>
-
-<!-- ================ooooo=============== -->
-<!--   ====== SOCIAL MEDIA ICONS ======   -->
-<!-- ================ooooo=============== -->
-<div class="color" style="text-align: center;">
 <p>
-    <a href="https://scholar.google.com/citations?hl=en&user=ZGU-ZScAAAAJ&view_op=list_works&sortby=pubdate" style="text-decoration: none;">
-    <img src="assets/img/icons/scholar.png" alt="W3Schools.com" style="width:2rem; height:2rem;" alt="" hspace="20">
-    </a>
-    <a href="https://www.linkedin.com/in/subhajyotichaudhuri" style="text-decoration: none;">
-    <img src="assets/img/icons/linkedin.png" alt="W3Schools.com" style="width:2rem; height:2rem;" alt="" hspace="20">
-    </a>
-    <a href="https://twitter.com/hartreefocker" style="text-decoration: none;">
-    <img src="assets/img/icons/twitter.png" alt="W3Schools.com" style="width:2rem; height:2rem;" alt="" hspace="20">
-    </a>
+<b>About Me</b><br>
+I am an <a href="https://www.iinano.org">International Institute for Nanotechnology Postdoctoral Fellow</a> working with <a href="https://chemistry.northwestern.edu/people/core-faculty/profiles/george-schatz.html">George Schatz</a> in the Department of Chemistry at <a href="https://www.northwestern.edu">Northwestern University</a>. Before this, I got my PhD with <a href="https://chem.yale.edu/faculty/victor-batista">Victor Batista</a> in the Department of Chemistry and the School of Engineering and Applied Science at <a href="https://www.yale.edu">Yale University</a>.
 </p>
-</div>
-<!-- ================ooooo=============== -->   
+    
+<p>
+<b>Research</b><br>
+I develop methods (utilizing electronic structure theory, statistical physics, stochastic methods, graph algorithms, and machine learning) to study charge, spin, and energy transfer in complex and disordered systems. Thanks to recent developments in machine learning and molecular dynamics, studying nuclear properties (structure-function correlations) in complex systems has become feasible - I want to do the same, but for electronic properties.    
+</p>
+    
+<p>
+<b>Research Philosophy</b><br>
+I would rather get the wrong answer but understand why than get the right answer and not understand why.
+</p>
 
-<div style="width:10rem; height:1rem;border:0px solid #ffffff;"></div>
-<p class="smalltextcenter" style="opacity: 50%; font-size: 80%"> Address: Department of Chemistry, Ryan Hall Rm. 4033, 2190 Campus Dr., Evanston, IL 60208 | Email: subhajyoti.chaudhuri@northwestern.edu<br>
-    &copy; Subhajyoti Chaudhuri, 2021</p>
-
-
+<p>
+<b>Physics-Informed Machine Learning</b><br>
+I always try to find analytical solutions to my problems, which, sometimes, even for well-posed problems with closed-form expressions is impossible. In such cases, I try to solve the problem using numerical methods, which becomes intractable quite frequently as well. Often I end up coupling various types of machine-learning/statistical methods for classification, clustering, regression, dimensionality reduction with the laws of physics (that I expect my system to obey) to solve challenging problems.
+I am particularly interested in <br>
+- <i>how</i> and <i>what</i> is the 'machine' learning <br>
+- how good are machine learning models at predicting emergent properties
+</p>
+    
+<p>
+<b>Sustainability</b><br>
+I am ultimately interested in is inverse/rational design of chemical systems that will allow us to move closer to a sustainable future. My research has applications in problems ranging from renewable energy to electronic waste management.
+</p>
+    
+<script src="js/scripts.js"></script>
 </body>
 </html>

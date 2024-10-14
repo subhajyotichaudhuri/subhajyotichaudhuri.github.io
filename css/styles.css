@@ -1,244 +1,83 @@
-/* =========================================== */
-/* ==== TABLE STYLE FOR PUBLICATIONS LIST ==== */
-/* =========================================== */
-table.table1
-table.table1 tr, td {
-  border:1px solid #ffffff;
-  border-collapse: collapse;
-  text-align: justify;
-  padding-bottom: 1rem;
-  padding-top: 1rem;
+body {
+    transition: background-color 0.3s, color 0.3s;
+    background-color: #ffffff; /* Light mode background */
+    color: #000000; /* Light mode text */
+    font-family: Arial, sans-serif;
+    padding: 5%;
 }
 
-table.table1 th:nth-child(even),table.table1 td:nth-child(1) {
-    font-size: 25pt ;
-    font-weight: bolder;
-    color: #ff8888;
-    padding-left: 0rem;
-    padding-right: 2rem;
-    width:10%;
+.dark-mode {
+    background-color: #29353C; /* Dark mode background */
+    color: #E6E6E6; /* Dark mode text */
 }
 
-table.table1 th:nth-child(even),table.table1 td:nth-child(2) {
-    font-size: 16;
-    color: #627582;
-    padding-left: 0rem;
-    padding-right: 2rem;
-    width:90%;
-    line-height: 1.8;
-    text-align: justify;
-}
-/* =========================================== */
-
-
-
-/* ================================= */
-/* ==== TABLE STYLE FOR CV PAGE ==== */
-/* ================================= */
-table.table2
-table.table2 tr, td {
-  border:1px solid #ffffff;
-  border-collapse: collapse;
-  text-align: justify;
-  padding-bottom: 1rem;
-  padding-top: 1rem;
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent; /* Light mode nav background */
+    color: #000000; /* Light mode text */
+    padding: 0px 0px;
 }
 
-table.table2 th:nth-child(even),table.table2 td:nth-child(1) {
-    font-size: 7pt ;
-    font-weight: bolder;
-    color: #ff8888;
-    padding-left: 0rem;
+nav.dark-mode {
+    background-color: transparent; /* Dark mode nav background */
+    color: #ffffff; /* Dark mode text */
 }
 
-table.table2 th:nth-child(even),table.table2 td:nth-child(2) {
-    font-size: 16 rem;
-    color: #627582;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    line-height: 1.8;
-    text-align: justify;
+#modeToggle {
+    margin: 20px 0;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
 }
 
-table.table2 th:nth-child(even),table.table2 td:nth-child(3) {
-    font-size: 16;
-    color: #627582;
-    padding-left: 0rem;
-    padding-right: 1rem;
-    align-content: left;
-}
-/* =========================================== */
-
-
-/* Style the navbar */
-#navbar {
-  overflow: hidden;
-  background-color: #ffffff;
+img {
+    width: 48px; /* Adjust size as needed */
+    height: 48px; /* Adjust size as needed */
 }
 
-/* Navbar links */
-#navbar a {
-  float: left;
-  display: block;
-  color: #627582;
-  text-align: center;
-  padding: 15px 18px;
-  text-decoration: none;
-  font-size: 16px;
-  position: sticky;
+a {
+    color: #367589;
+    text-decoration: none;
+}
+
+.dark-mode a {
+    color: #f69284;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+#slideshow {
+    position: relative;
+    width: 75%; /* Set width, adjust as needed */
+    max-width: 100%; /* Use full width up to max */
+    margin: 0% auto; /* Center the slideshow with 20% top/bottom margin */
+    padding-top: 56.25%; /* Maintain a 16:9 aspect ratio */
+    overflow: hidden; /* Prevent overflow of slides */
+    background-color: transparent;
+}
+
+.slide {
+    position: absolute; /* Stack slides on top of each other */
     top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; /* Ensure the slide fills the wrapper */
+    opacity: 0; /* Start with slides hidden */
+    transition: opacity 0.5s ease-in-out; /* Fade transition */
 }
 
-/* Change the color of links on hover */
-#navbar a:hover {
-  background-color: #ffffff;
-  color: #627582;
-  font-size: 20px;
+.slide.active {
+    opacity: 1; /* Show the active slide */
 }
 
-/* Add a color to the active/current link */
-#navbar a.active {
-  background-color: #ffffff;
-  color: #ff8888;
-  font-size: 16px;
-  font-weight: bolder;
+.slide img {
+    width: 100%; /* Fill the width of the slide */
+    height: 100%; /* Fill the height of the slide */
+    object-fit: cover; /* Maintain aspect ratio and cover the entire area */
 }
-
-/* Page content */
-.content {
-  padding: 16px;
-}
-
-/* The sticky class is added to the navbar with JS when it reaches its scroll position */
-.sticky {
-  position: fixed;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  width: 100%;
-}
-
-/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
-.sticky + .content {
-  padding-top: 60px;
-}
-
-
-
-/* ==== HOVER SATURATION EFFECT ==== */
-.color img{
-filter: grayscale(70%);
-opacity: 0.4;
--webkit-filter: grayscale(70%);
--webkit-transition: all 1s ease;
-}
-
-.color img:hover{
-opacity: 0.8;
-filter: grayscale(0%);
-filter: gray;
--webkit-filter: grayscale(0%);
-filter: none;
-transition: 1s ease;
-}
-
-
-/* ==== HOVER GROW EFFECT ==== */
-.grow img{
-transition: 1s ease;
-}
-
-.grow img:hover{
--webkit-transform: scale(1.2);
--ms-transform: scale(1.2);
-transform: scale(1.2);
-transition: 1s ease;
-}
-
-/* ==== HOVER SATURATION EFFECT ==== */
-.saturate img{
-filter: grayscale(100%);
-opacity: 0.9;
--webkit-filter: grayscale(100%);
--webkit-transition: all 0.1s ease;
-}
-
-.saturate img:hover{
-opacity: 1;
-filter: grayscale(0%);
-filter: gray;
--webkit-filter: grayscale(0%);
-filter: none;
-transition: 0.1s ease;
-}
-
-
-
-
-.colortext{
-  color: #627582;
-}
-.colortext:hover {
-color: #ff8888;
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;
-}
-
-.bigtextcenter {
-  color: #627582;
-  font-size: 30px;
-  text-align: center;
-}
-
-.smalltextcenter {
-  color: #627582;
-  font-size: 15px;
-  text-align: center;
-}
-
-.pubno {
-  color: #627582;
-  font-size: 15px;
-  padding: 5em 5rem;
-  line-height: 1.8;
-  text-align: justify;
-}
-
-.publist {
-  color: #627582;
-  font-size: 15px;
-  padding: 5rem;
-  line-height: 1.8;
-  text-align: justify;
-}
-
-
-.mainimg {
-    width: 100;
-    height: 15rem;
-    background-image: url(../assets/img/images/subha.png);
-    background-repeat: no-repeat;
-    background-size: 15rem;
-    background-position: center center;;
-}
-.mainimg:hover {
-    background-image: url(../assets/img/images/subha2.png);
-    background-repeat: no-repeat;
-    background-size: 15rem;
-    background-position: center center;;
-
-
-
-
-div.container {
-      display:inline-block;
-    }
-
-    p {
-      text-align:center;
-    }
