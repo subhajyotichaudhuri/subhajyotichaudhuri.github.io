@@ -1,21 +1,50 @@
+@media (max-width: 600px) {
+    body {
+        font-size: 14px; /* Smaller font size for small screens */
+    }
+}
+
+@media (min-width: 601px) and (max-width: 1200px) {
+    body {
+        font-size: 18px; /* Medium font size for medium screens */
+    }
+}
+
+@media (min-width: 1201px) {
+    body {
+        font-size: 20px; /* Larger font size for large screens */
+    }
+}
+
+
 body {
+    font-size: 18px; /* Default font size */
     transition: background-color 0.3s, color 0.3s;
     background-color: #ffffff; /* Light mode background */
     color: #000000; /* Light mode text */
     font-family: Arial, sans-serif;
-    padding: 5%;
+    margin: 10% 10%; /* 0 margin for top/bottom, 5% for left/right */
+    padding: 0; /* Optional: Reset any default padding */
 }
 
 .dark-mode {
-    background-color: #29353C; /* Dark mode background */
+    background-color: #18191A; /* Dark mode background */
     color: #E6E6E6; /* Dark mode text */
 }
 
 nav {
-    display: flex;
+    position: fixed; /* Fix the navbar to the top */
+    top: 0; /* Align it to the top of the viewport */
+    width: 100%; /* Full width */
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent background */
+    color: #000; /* Text color */
+    padding: 20px 0; /* Padding for the navbar */
+    z-index: 1000; /* Ensure it appears above other content */
+    transition: background-color 0.3s; /* Optional: Smooth transition for background color */
+#    display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: transparent; /* Light mode nav background */
+ #   background-color: transparent; /* Light mode nav background */
     color: #000000; /* Light mode text */
     padding: 0px 0px;
 }
@@ -54,12 +83,11 @@ a:hover {
 
 #slideshow {
     position: relative;
-    width: 75%; /* Set width, adjust as needed */
+    width: 100%; /* Set width, adjust as needed */
     max-width: 100%; /* Use full width up to max */
     margin: 0% auto; /* Center the slideshow with 20% top/bottom margin */
-    padding-top: 56.25%; /* Maintain a 16:9 aspect ratio */
+    padding-top: 60%; /* Maintain a 16:9 aspect ratio */
     overflow: hidden; /* Prevent overflow of slides */
-    background-color: transparent;
 }
 
 .slide {
