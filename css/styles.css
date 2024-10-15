@@ -23,7 +23,7 @@ body {
     background-color: #ffffff; /* Light mode background */
     color: #000000; /* Light mode text */
     font-family: Arial, sans-serif;
-    margin: 10% 10%; /* 0 margin for top/bottom, 5% for left/right */
+    margin: 0% 10%; /* 0 margin for top/bottom, 5% for left/right */
     padding: 0; /* Optional: Reset any default padding */
 }
 
@@ -32,19 +32,23 @@ body {
     color: #E6E6E6; /* Dark mode text */
 }
 
+body.generalpage {
+    margin-top: 100px; /* Top margin for the research page */
+}
+
 nav {
     position: fixed; /* Fix the navbar to the top */
     top: 0; /* Align it to the top of the viewport */
-    width: 100%; /* Full width */
+    width: flex; /* Full width */
     background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent background */
     color: #000; /* Text color */
     padding: 20px 0; /* Padding for the navbar */
     z-index: 1000; /* Ensure it appears above other content */
     transition: background-color 0.3s; /* Optional: Smooth transition for background color */
-#    display: flex;
-    justify-content: space-between;
+    display: flex;
+    justify-content: flex-end;
     align-items: center;
- #   background-color: transparent; /* Light mode nav background */
+    background-color: transparent; /* Light mode nav background */
     color: #000000; /* Light mode text */
     padding: 0px 0px;
 }
@@ -55,16 +59,33 @@ nav.dark-mode {
 }
 
 #modeToggle {
-    margin: 20px 0;
-    padding: 10px 15px;
+    margin: 0px 0;
+    padding: 10px 10px;
     border: none;
     cursor: pointer;
+    display: flex; /* Flex display for alignment */
+
     background-color: transparent;
 }
 
 img {
     width: 48px; /* Adjust size as needed */
     height: 48px; /* Adjust size as needed */
+}
+
+#navButton {
+    border: none; /* Remove default button border */
+    padding: 10px 10px;
+    margin: 0px 0;
+    background-color: transparent; /* Transparent background */
+    cursor: pointer; /* Pointer cursor on hover */
+    display: flex; /* Flex display for alignment */
+    align-items: center; /* Center icon vertically */
+}
+
+#navButton img {
+    width: 48px; /* Icon width */
+    height: 48px; /* Icon height */
 }
 
 a {
@@ -109,3 +130,44 @@ a:hover {
     height: 100%; /* Fill the height of the slide */
     object-fit: cover; /* Maintain aspect ratio and cover the entire area */
 }
+
+.image-container {
+            text-align: center; /* Center the image */
+        }
+.responsive-image {
+            width: 15%; /* Full width */
+            max-width: 800px; /* Maximum width */
+    min-width: 250px;
+            height: auto; /* Maintain aspect ratio */
+}
+
+        /* Style for the tooltip container */
+        .tooltip {
+            position: relative; /* Positioning for the tooltip */
+            display: inline-block; /* Only takes up as much space as the text */
+            cursor: pointer; /* Changes cursor to pointer on hover */
+        }
+
+        /* Tooltip text styling */
+        .tooltip .tooltiptext {
+            visibility: hidden; /* Hidden by default */
+            width: 300px; /* Width of the tooltip */
+            background-color: black; /* Background color */
+            color: white; /* Text color */
+            text-align: center; /* Centered text */
+            border-radius: 5px; /* Rounded corners */
+            padding: 5px; /* Padding around text */
+            position: absolute; /* Positioning the tooltip */
+            z-index: 1; /* Ensure it appears above other elements */
+            bottom: 125%; /* Position above the text */
+            left: 50%; /* Center horizontally */
+            margin-left: -60px; /* Adjust to align center */
+            opacity: 0; /* Start invisible */
+            transition: opacity 0.3s; /* Fade effect */
+        }
+
+        /* Show the tooltip text when hovering */
+        .tooltip:hover .tooltiptext {
+            visibility: visible; /* Make it visible */
+            opacity: 1; /* Make it fully opaque */
+        }

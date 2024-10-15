@@ -22,13 +22,30 @@ font-family: Arial, Helvetica, sans-serif;
 </head>
 
 <body>
-
+    
+<!-- Start Navigation Bar -->
 <nav id="navbar">
-<h1> </h1>
+<!--<h1> </h1> -->
 <button id="modeToggle">
 <img id="modeIcon" src="/assets/img/icons/light.png" alt="Light Mode" />
 </button>
+<button id="navButton" onclick="window.location.href='index.html'">
+    <img src="/assets/img/icons/home.png" alt="Home Icon" />
+</button>
+<button id="navButton" onclick="window.location.href='research.html'">
+    <img src="/assets/img/icons/research.png" alt="Research Icon" />
+</button>
+<button id="navButton" onclick="window.location.href='publications.html'">
+    <img src="/assets/img/icons/publications.png" alt="Publication Icon" />
+</button>
+<button id="navButton" onclick="window.location.href='cv.html'">
+    <img src="/assets/img/icons/cv.png" alt="CV Icon" />
+</button>
+<button id="navButton" onclick="window.location.href='teaching.html'">
+    <img src="/assets/img/icons/teaching.png" alt="FAQ Icon" />
+</button>
 </nav>
+<!-- End Navigation Bar -->
 
 <div id="slideshow">
     <div class="slide-wrapper">
@@ -52,31 +69,31 @@ font-family: Arial, Helvetica, sans-serif;
 </div>
 <br>
 <p>
-<b style="font-size: 2em;">About me</b><br>
+<b style="font-size: 2em;">About Me</b><br>
 I am an <a href="https://www.iinano.org">International Institute for Nanotechnology Postdoctoral Fellow</a> working with <a href="https://chemistry.northwestern.edu/people/core-faculty/profiles/george-schatz.html">George Schatz</a> in the Department of Chemistry at <a href="https://www.northwestern.edu">Northwestern University</a>. I also run an independent research thrust as part of the <a href="https://www.iinano.org/research/nanocombinatorics/">IIN Center for Nanocombinatorics</a>. Before this, I got my PhD with <a href="https://chem.yale.edu/faculty/victor-batista">Victor Batista</a> in the Department of Chemistry and the School of Engineering and Applied Science at <a href="https://www.yale.edu">Yale University</a>.
 </p>
 <br>
 <p>
 <b style="font-size: 2em;">Research</b> <br>
-I develop methods (utilizing electronic structure theory, statistical physics, stochastic methods, graph algorithms, and machine learning) to study charge, spin, and energy transfer in complex and disordered systems. Thanks to recent developments in machine learning and molecular dynamics, studying nuclear properties (structure-function correlations) in complex systems has become feasible - I want to do the same, but for electronic properties.
+I develop methods (utilizing electronic structure theory, statistical physics, stochastic methods, graph algorithms, and machine learning) to study charge, spin, and energy transfer in complex and disordered systems. Thanks to recent developments in machine learning and molecular dynamics, studying nuclear properties (structure-function correlations) in complex systems has become feasible - I want to do the same for electronic properties.
 </p>
 <br>
 <p>
-<b style="font-size: 2em;">Research philosophy</b> <br>
+<b style="font-size: 2em;">Research Philosophy</b> <br>
 I am (almost) equally interested in <i>how</i>, <i>what</i>, and <i>why</i>. I do prefer getting the wrong answer and understanding why over getting the right answer and not understanding why.
 </p>
 <br>
 <p>
-<b style="font-size: 2em;">Physics-informed machine learning</b><br>
-I always try to find analytical solutions to my problems, which, sometimes, even for well-posed problems with closed-form expressions is impossible. In such cases, I try to solve the problem using numerical methods, which becomes intractable quite frequently as well. Often I end up coupling various types of machine-learning/statistical methods for classification, clustering, regression, dimensionality reduction with the laws of physics (that I expect my system to obey) to solve challenging problems.
+<b style="font-size: 2em;">Physics-Informed Machine Learning</b><br>
+I always try to find analytical solutions to my problems, which, sometimes, even for well-posed problems with closed-form expressions is impossible. In such cases, I try to solve the problems using numerical methods, which become intractable quite frequently as well. Often, I end up coupling various types of machine-learning/statistical methods for classification, clustering, regression, and dimensionality reduction with the laws of physics (that I expect my system to obey) to solve challenging problems.
 I am particularly interested in: <br>
-<i>how</i> and <i>what</i> is the 'machine' learning <br>
-how good are machine learning models at predicting emergent properties
+<i>How</i> and <i>what</i> is the 'machine' learning <br>
+How good are machine learning models at predicting emergent properties
 </p>
 <br>
 <p>
 <b style="font-size: 2em;">Sustainability</b><br>
-I am ultimately interested in inverse/rational design of chemical systems that will allow us to move closer to a sustainable future. My research has applications in problems ranging from renewable energy generation & storage to electronic waste management. Over the past few years I have been actively pursuing sustainability research - first as a graduate student in the <a href="https://westcampus.yale.edu/research/science-medicine-engineering/institutes/energy-sciences">Yale Energy Sciences Institute</a> & the <a href="https://en.wikipedia.org/wiki/Argonne–Northwestern_Solar_Energy_Research_Center">Argonne-Northwestern Solar Energy Research Center</a>, and then as a postdoctoral researcher & Trainee Advisory Board member of the <a href="https://www.cssm.upenn.edu">Center for Sustainable Separation of Metals</a>.
+I am ultimately interested in the inverse/rational design of chemical systems that will allow us to move closer to a sustainable future. My research has applications in problems ranging from renewable energy generation & storage to electronic waste management. Over the past few years I have been actively pursuing sustainability research - first as a graduate student in the <a href="https://westcampus.yale.edu/research/science-medicine-engineering/institutes/energy-sciences">Yale Energy Sciences Institute</a> & the <a href="https://en.wikipedia.org/wiki/Argonne–Northwestern_Solar_Energy_Research_Center">Argonne-Northwestern Solar Energy Research Center</a>, and then as a postdoctoral researcher & Trainee Advisory Board member of the <a href="https://www.cssm.upenn.edu">Center for Sustainable Separation of Metals</a>.
 </p>
 <br>
 <p>
@@ -88,13 +105,13 @@ I organize the <a href="https://x.com/nutcss">Theoretical Chemistry Seminar Seri
 <div class="color" style="text-align: center;">
 <p>
     <a href="https://scholar.google.com/citations?hl=en&user=ZGU-ZScAAAAJ&view_op=list_works&sortby=pubdate" style="text-decoration: none;">
-    <img src="assets/img/icons/scholar.png" alt="W3Schools.com" style="width:2rem; height:2rem;" alt="" hspace="20">
+    <img src="assets/img/icons/scholar.png" alt="Scholar" style="width:3rem; height:3rem;" alt="" hspace="20">
     </a>
     <a href="https://www.linkedin.com/in/subhajyotichaudhuri" style="text-decoration: none;">
-    <img src="assets/img/icons/linkedin.png" alt="W3Schools.com" style="width:2rem; height:2rem;" alt="" hspace="20">
+    <img src="assets/img/icons/linkedin.png" alt="Linkedin" style="width:3rem; height:3rem;" alt="" hspace="20">
     </a>
     <a href="https://twitter.com/hartreefocker" style="text-decoration: none;">
-    <img src="assets/img/icons/twitter.png" alt="W3Schools.com" style="width:2rem; height:2rem;" alt="" hspace="20">
+    <img src="assets/img/icons/x.png" alt="X" style="width:3rem; height:3rem;" alt="" hspace="20">
     </a>
 </p>
 </div>    
