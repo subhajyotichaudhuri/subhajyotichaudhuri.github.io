@@ -25,6 +25,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0% 10%; /* 0 margin for top/bottom, 5% for left/right */
     padding: 0; /* Optional: Reset any default padding */
+    position: relative; /* Position relative to contain absolute children */
 }
 
 .dark-mode {
@@ -60,7 +61,7 @@ nav.dark-mode {
 
 #modeToggle {
     margin: 0px 0;
-    padding: 10px 10px;
+    padding: 10px 0px;
     border: none;
     cursor: pointer;
     display: flex; /* Flex display for alignment */
@@ -75,7 +76,7 @@ img {
 
 #navButton {
     border: none; /* Remove default button border */
-    padding: 10px 10px;
+    padding: 10px 0px;
     margin: 0px 0;
     background-color: transparent; /* Transparent background */
     cursor: pointer; /* Pointer cursor on hover */
@@ -106,7 +107,8 @@ a:hover {
     position: relative;
     width: 100%; /* Set width, adjust as needed */
     max-width: 100%; /* Use full width up to max */
-    margin: 0% auto; /* Center the slideshow with 20% top/bottom margin */
+    padding: 0;
+    margin: 0% 0%; /* Center the slideshow with 20% top/bottom margin */
     padding-top: 60%; /* Maintain a 16:9 aspect ratio */
     overflow: hidden; /* Prevent overflow of slides */
 }
@@ -116,6 +118,7 @@ a:hover {
     top: 0;
     left: 0;
     width: 100%;
+    margin: 0;
     height: 100%; /* Ensure the slide fills the wrapper */
     opacity: 0; /* Start with slides hidden */
     transition: opacity 0.5s ease-in-out; /* Fade transition */
